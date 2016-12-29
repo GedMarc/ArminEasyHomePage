@@ -1,0 +1,37 @@
+[
+    {
+        "name": "GedMarc",
+        "message":"Responsive Vertical Timeline Implemented!",
+        "date":"2016-10-24T07:36:06"
+    },
+    {
+        "name": "GedMarc",
+        "message":"SB2 Admin Navbar and Messages drop down completed. Your looking at it",
+        "date":"2016-10-06T07:36:06"
+    },
+    {
+        "name": "GedMarc",
+        "message":"Angular module structure updated. Will now correctly load plugin modules",
+        "date":"2016-10-05T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "message":"Moment and Moment Angular implemented. Use the new component Moment()",
+        "date":"2016-10-05T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "message":"Starting to implement the SB2 Admin Theme. See Package jquery.bootstrap.themes.sbadmin2",
+        "date":"2016-10-05T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "message":"Modernizr implementation completed. Created bower for the bootstrap white screen fix",
+        "date":"2016-09-24T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "message":"Finished updating metro to the new component structure. What a dream",
+        "date":"2016-09-04T15:31:06"
+    }
+] 

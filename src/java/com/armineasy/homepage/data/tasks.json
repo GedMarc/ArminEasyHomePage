@@ -1,0 +1,22 @@
+[
+    {
+        "name": "SB2 Progress Task",
+        "percentage": "100",
+        "data":"Success"
+    },
+    {
+        "name": "BS Progress Bar",
+        "percentage": "100",
+        "data":"Success"
+    }, 
+    {
+        "name": "BS Components",
+        "percentage": "20",
+        "data":"Info"
+    }, 
+    {
+        "name": "SB2 Messages",
+        "percentage": "100",
+        "data" : "Danger"
+    }
+]

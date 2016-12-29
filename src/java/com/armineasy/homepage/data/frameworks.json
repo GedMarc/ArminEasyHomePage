@@ -1,0 +1,45 @@
+[{
+        "name": "Responsive Vertical Timeline",
+        "url":"https://codyhouse.co/gem/vertical-timeline/",
+        "date":"2016-10-24T07:36:06"
+    },{
+        "name": "JQuery v2",
+        "url":"SB2 Admin Navbar and Messages drop down completed. Your looking at it",
+        "date":"2016-10-06T07:36:06"
+    },
+    {
+        "name": "GedMarc",
+        "url":"Angular module structure updated. Will now correctly load plugin modules",
+        "date":"2016-10-05T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "url":"Moment and Moment Angular implemented. Use the new component Moment()",
+        "date":"2016-10-05T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "url":"Starting to implement the SB2 Admin Theme. See Package jquery.bootstrap.themes.sbadmin2",
+        "date":"2016-10-05T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "url":"Modernizr implementation completed. Created bower for the bootstrap white screen fix",
+        "date":"2016-09-24T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "url":"Finished updating metro to the new component structure. What a dream",
+        "date":"2016-09-04T15:31:06"
+    },
+    {
+        "name": "GedMarc",
+        "userIcon":"",
+        "message":"Started the project from the RadioOnLive base. Pattern found",
+        "url":"",
+        "progress":"",
+        "taskId":"",
+        "icon":"",
+        "date":"2009-01-01T00:00:00"
+    }
+]  
